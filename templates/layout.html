@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% include "__header.html" %}
+</head>
+<body>
+	{% include "__navbar.html" %}
+	<div class="container">
+		{% block main %}
+		{% endblock %}
+	</div>
+	{% include "__jsIncludes.html" %}
+	{% block pageJS %}
+	{% endblock %}
+</html>

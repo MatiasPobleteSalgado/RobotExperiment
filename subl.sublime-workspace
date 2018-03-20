@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"indx"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"In",
+				"interesCompuesto"
+			],
+			[
+				"inte",
+				"interesCompuesto"
+			],
+			[
+				"I",
+				"interesSimple"
+			],
+			[
+				"__",
+				"__init__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 185,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/__navbar.html",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/search.html",
+			"settings":
+			{
+				"buffer_size": 817,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/main.js",
+			"settings":
+			{
+				"buffer_size": 408,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/js/search.js",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/__jsIncludes.html",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "si se invierten $100 en un fondo que capitaliza mensualmente al 7% de interes efectivo\ndurante un año, determinar el interes nominal y equivalente",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Windows",
+				"name": "si se invierten $100 en un fondo que capitaliza me"
+			}
+		},
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 1198,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Tx3Inacap",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Windows",
+				"name": "Tx3Inacap"
+			}
+		},
+		{
+			"file": "randomTest.py",
+			"settings":
+			{
+				"buffer_size": 332,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "m = []"
+			}
+		},
+		{
+			"file": "scrapyDemo.py",
+			"settings":
+			{
+				"buffer_size": 357,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import scrapy"
+			}
+		},
+		{
+			"contents": "\nMercado del consumidor:\n\nLas catástrofes incendiarias han sido un problema siempre presente en nuestro entorno y en la mayoría de hogares no existen medios tecnológicos presentes que agilicen la detección y alerta temprana de estos eventos, mecanismos que permitan a bomberos y comunidades un accionar más eficiente, que reduzca daños a personas o sus propiedades. En el escenario actual los mecanismos de acción y prevención de emergencias incendiarias dependen principalmente de la reacción humana y los medios de comunicación que estos dispongan lo cual no siempre garantiza estar presente ni de forma inmediata. Ante esto existen múltiples herramientas tecnológicas que podrían cambiar esta situación generando una alerta inmediata y precisa de la situación.\n\nSon muchos los factores de riesgo que pueden incidir en la generación de un incendio, sin embargo, un factor común en el inicio de estos eventos es la aparición de humo o fugas de gases cuya temprana detección puede ayudar muchísimo a evitar la propagación del fuego. El factor humano no siempre es suficiente para realizar la detección de estos factores por diversos motivos como los descuidos, horarios de descanso o simple ausencia en el hogar y para cuando se detecta el incendio este tiene una magnitud que dificulta su extinción o podría haberse propagado a otros inmuebles, todo esto incrementa considerablemente el daño generado por la catástrofe junto al gasto y esfuerzo necesario de bomberos y autoridades para neutralizar la situación.\n\nEl proyecto consiste en el desarrollo de un sistema automatizado  y comunitario de alerta y prevención ante emergencias de tipo incendiario, entregando a las comunidades una herramienta de acción eficaz frente a emergencias utilizando los medios tecnológicos conocidos y presentes en los hogares en la actualidad. \n\nSon  variadas las formas en que se podría diseñar e implementar una solución a esta problemática, pero los focos centrales al ser un proyecto enfocado inicialmente a comunidades de la región, donde el recurso económico es el principal limitante, debe ser el costo y la fácil adaptación del sistema al conocimiento y recursos de los usuarios, por lo que se ha diseñado un dispositivo y herramientas de software que pueden introducirse fácilmente a la mayoría de hogares utilizando los recursos conocidos y fuertemente presentes en la actualidad como lo son los smartphones y las redes Wifi, todo esto con un coste de producción en hardware muy bajo lo que permitirá a agrupaciones vecinales y municipios obtener un sistema con la más moderna tecnología, potente y moderno sin la necesidad de un esfuerzo económico significativo.\n\nCompetencia\n\nExiste reducida o casi nula innovación en el mercado local respecto a la problemática objetivo del producto y las alternativas existentes de mercado externo se encuentran en el comercio local pero a un costo demasiado alto para la mayoria de poblacion. Es por esto que se cuenta con una situación privilegiada con una alta proyección de demanda en un sector de mercado no explotado por la competencia.\n\nEl principal competidor es la compañía Ozom la cual fabrica toda una línea de dispositivos conectados para la automatización del hogar. Uno de sus productos comparte características con nuestro producto pero a un costo demasiado elevado. Además cada dispositivo es dependiente de un box central el que tiene un costo adicional y no entrega mayor funcionalidad.\n\n(revisar consumos energeticos)\n\nDistribuidor:\n\n\nSe deben revisar convenios microempresariales con empresas del rubro de reparto como Chile express y DHL. Estos servicios mencionados son los principalmente ocupados por empresas competidoras capaces de cubrir amplias áreas de reparto.\n\nProveedor:\n\nFabricantes y distribuidores chinos, como Deal Extreme y Espressif.\n\nTecnico:\n\n\n\nDemanda:\n\n\nCasas, departamentos o cualquier inmueble con sistemas de calefacción con riesgo incendiario\n\nCostos:\n\nDormir menos 1 dia a la semana por hacer el grafiquito...\n\nInversion:\n\nLa U paga el prototipo...\n\n\n",
+			"settings":
+			{
+				"buffer_size": 4028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/login.html",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".google-cookie",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/__header.html",
+			"settings":
+			{
+				"buffer_size": 650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Matias/Downloads/index.html",
+			"settings":
+			{
+				"buffer_size": 5366,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Matias/dev/python/flask/scraper",
+		"/C/Users/Matias/dev/python/flask/scraper/static",
+		"/C/Users/Matias/dev/python/flask/scraper/static/js",
+		"/C/Users/Matias/dev/python/flask/scraper/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Matias/dev/python/flask/scraper/static/search.js",
+		"/C/Users/Matias/dev/python/flask/scraper/static/main.js",
+		"/E/Desarrollos/DiabloBasedEngine(old)/NewEngine/Launcher.py",
+		"/C/Users/Matias/dev/python/interes.py",
+		"/C/Users/Matias/dev/python/flask/scrapper/app.py",
+		"/C/Users/Matias/dev/python/flask/scrapper/templates/index.html",
+		"/C/Users/Matias/dev/python/flask/scrapper/main.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/__navbar.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								725,
+								725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/js/search.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/__jsIncludes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"auto_name": "si se invierten $100 en un fondo que capitaliza me",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Tx3Inacap",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "randomTest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"auto_name": "m = []",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "scrapyDemo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import scrapy",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1586,
+								1586
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 732.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "templates/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": ".google-cookie",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "templates/__header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/Matias/Downloads/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3973,
+								3973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 203.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "subl.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
